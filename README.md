@@ -31,3 +31,10 @@ Send get request from browser:
 Open: http://localhost:3000/bmicalculator
 
 ## This is a project I did studying with Angela Yu's "Complete 2021 Web Development Bootcamp" on Udemy
+
+## Video Demonstration: 
+
+
+https://user-images.githubusercontent.com/74827533/130425739-f59c8f7d-ba35-4859-a6c3-f2f2c36bbdaf.mp4
+
+
