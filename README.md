@@ -1,8 +1,6 @@
 # first-backend-project-bmi-calculator
 A simple BMI calculator back end program, which can do a get request and a post request.
 
-## This is a project I did studying with Angela Yu's "Complete 2021 Web Development Bootcamp" on Udemy
-
 It contains two calculators: 
 1) A simple calculator which adds two numbers in the main directory ("/")
 2) A BMI caclculator in the subdirectory ("/bmicalculator")
@@ -32,4 +30,4 @@ Send get request from browser:
 
 Open: http://localhost:3000/bmicalculator
 
-
+## This is a project I did studying with Angela Yu's "Complete 2021 Web Development Bootcamp" on Udemy
