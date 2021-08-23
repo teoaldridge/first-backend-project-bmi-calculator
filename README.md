@@ -12,7 +12,7 @@ It contains two calculators:
 How to run: (from terminal)
 Clone the repository:
 
-git clone https://github.com/teoaldridge/first-backend-project-bmi-calculator
+git clone https://github.com/teoaldridge/first-backend-project-bmi-calculator.git
 
 Enter directory:
 
